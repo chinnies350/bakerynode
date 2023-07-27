@@ -1,0 +1,12 @@
+{
+    "type": "service_account",
+    "project_id": "tamilnadu-tourism-94d64",
+    "private_key_id": "22740d39b7d8292399fcc5f01d42d039c76af4ba",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDOnQDmw0c71qHp\nxsgMHEumFWCfjHb2GW3BagwGc/ZHy+eH8rUYkqd4W4mYn24qlJZHY5zZMOWluPop\n43Wq8uORDsPT7dvJiOP9b4krURMyhwnmOL+T2e69j3fmUFUk3aF1XLigxIK3qvvB\nAhM20BoT79ToOa3rkYfirOrnTQCed19qFx9gPYTL0pjHTgzUZr1q2GaEY8t8pcyW\nKQv5kpMsr/G02WJM/4w94MyUA6ZbtRhdQIHtTpgRE03NLSM/mVPOZe30kfVvcJtG\nx7zNWApa7hPjPMr3oSJYW4sbQIWeGJ9ju+7qMpTHhUy5+lahy8geAG9W+03RGPL0\njPSr3qfPAgMBAAECggEAWxPftVnIuWqERlLPlXMVr9lFlh9rw1FzTerq8R9GJeEP\nJ6EITpQ7SbWEQqio/hEw67hQCHfjC7ouYK+5i4l1YljRX0c/dygmZG4518PuA/x+\nEyPZ45mSgbJQJtErr0wZo+wjIQ9vFfrD7pF1GdkDXd1/i3z9m1W0Qmp6RErv5moq\nW/fr8qvi33G+uba9sF2DSVjMUrpB5C390/xkx8H1cW5xNpFSpoPSypGHG0Eh3uBz\n7T4WhbYyG5OB/bYcoaQVMpktcJpZGoWHZp1cDlCEdpF5wwoHK/bGLD8PjKHP0P3b\nRlix+r4N9+oBZK9ibVEEM+7eFbm8zv/cluN2ybVrjQKBgQD4ywmWFDIFPKCW1/2p\n7esCIKxKZkqUFDpiA1EtD+VrlSYA0LzYe2de/CN7fnJYJGV+CoVCg6kcc5JVaRqz\nSaJzIFrvQZx1Vlck+NCjF51SfnUwjLg1lTH+oCWedCgpp2NU4H1J+yC1OCwtdgHj\nZTwxeSIsoSvJykQ8zOVhTfMxAwKBgQDUmSzhMSSw0jQud8iWRMVPe9kpYf5TW24N\nb8N8vtNAk9cZk+8EAmPDe/bx6k8NcsfyNnauP3AYRu+srphWk0GBRKEh6Dsavjmi\nSoCoeTt2WlknEc8Q1QHoq/m44y5HOtm1d6ZfUvapom1GSOdgtKjG0/u/H2v4sE6i\nU04dRAQmRQKBgBfCtFir9xb+8ktVt3kqKr6aRjoYyNiZkfXYYUFPelaq+OUtCkwW\nhQnSRMU/j0YRu8usz4tJrbX0563WiuFCkAw0s9qTxpCCPXJffPWGhNTjFOgdGF6t\nsAekXdNjPo6z2M27XtvY6wfDpJx237lK6tPCwNvITLlJ4vh3jRSc8DPnAoGBAMiC\nFvPkl4g1GIXi70naXoVSd0Qyad1QVAFUMXlLuI4lYS98eGa9oj3Sgtsyc5Bpeu6U\nM2av6hbbgFzK5l5wz80NXzNNhcD5O/42ahV7EXvURlU01Kg5XW2GFSYtDY6ckIw3\n5q/s3TqsOIebZq2sdangcISXLAwGrIMoMnojlg5JAoGBAI871o9gbnVUU25eDwXF\niyymOsS0PKBbY8m/ik9RYs+rxNJvih9RjTCx3gwWHpZsxYb39E7r0pcEOrXqxBfQ\ncj5KRnNGOV1ZhFvvI/5l3mN/rnzPrUrBcxfhLYKrndfi3IeOLrZqOptOQ4xpQo+D\ndaab13vL/re+6zm3k0nDWR4j\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-hoc2z@tamilnadu-tourism-94d64.iam.gserviceaccount.com",
+    "client_id": "111889857073166022276",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-hoc2z%40tamilnadu-tourism-94d64.iam.gserviceaccount.com"
+  }

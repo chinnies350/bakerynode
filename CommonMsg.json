@@ -1,0 +1,34 @@
+{
+    "NullMsg": {
+        "status": true,
+        "message": "Please Provide all the details"
+    },
+    "AddMsg": {
+        "status": true,
+        "message": "Data Added Successfully"
+    },
+    "updateMsg": {
+        "status": true,
+        "message": "Data Updated Successfully"
+    },
+    "deleteMsg": {
+        "status": true,
+        "message": "Deleted successfully."
+    },
+    "BookingMsg": {
+        "status": true,
+        "message": "Booked successfully."
+    },
+    "CancelMsg": {
+        "status": true,
+        "message": "Cancelled successfully."
+    },
+    "DataNotFoundMsg": {
+        "status": true,
+        "message": "Data Not found."
+    },
+    "DuplicateRecordMsg": {
+        "status": false,
+        "message": "Trying to add duplicate record."
+    }
+}

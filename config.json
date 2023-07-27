@@ -1,0 +1,25 @@
+{
+  "MSSQL": {
+    "user": "appUser",
+    "password": "AppUser@221#$*",
+    "server": "192.168.1.221",
+    "database": "TTDC_Restaurant_New",
+    "options": {
+      "encrypt": true,
+      "enableArithAbort": true
+    }
+  },
+  "MongoDB": {
+    "server": "mongodb://admin:Prematix%40123@mongodb_server:27017/?authMechanism=DEFAULT",
+    "DB_Name": "Paypre"
+  },
+  "MailData": {
+    "MailId": "tprematix@gmail.com",
+    "Password": "Prem@tix$Team"
+  },
+  "API_Url": "http://localhost:5001",
+  "TTDC_Live_API": "https://paypre.in/Boating/BTAPI/api/",
+  "TTDC_Live_API_Dev": "http://prematix.solutions/TTDC_Live_API/api/"
+}
+
+
